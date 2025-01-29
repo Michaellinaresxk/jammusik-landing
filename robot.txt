@@ -1,0 +1,37 @@
+# robots.txt for Jammusik
+
+# Allow all robots full access by default
+User-agent: *
+Allow: /
+Allow: /about.html
+Allow: /privacy.html
+Allow: /contact.html
+Allow: /index.html
+Allow: /features
+Allow: /img/
+
+# Prevent access to certain directories
+Disallow: /css/
+Disallow: /js/
+Disallow: /admin/
+Disallow: /temp/
+Disallow: /test/
+Disallow: /backup/
+
+# Prevent indexing of specific file types
+Disallow: /*.json$
+Disallow: /*.xml$
+Disallow: /*.txt$
+
+# Allow media files
+Allow: /*.jpg$
+Allow: /*.jpeg$
+Allow: /*.gif$
+Allow: /*.png$
+Allow: /*.svg$
+
+# Add your sitemap location
+Sitemap: https://jammusik.com/sitemap.xml
+
+# Crawl-delay directive for better server performance
+Crawl-delay: 10

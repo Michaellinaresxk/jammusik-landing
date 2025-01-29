@@ -1,0 +1,34 @@
+/* TEAM */
+    Developer: Michael Linares
+    Contact: linares.michael@gmail.com
+    Website: https://mikefolio-kappa.vercel.app/
+    From: [Poland]
+
+/* SITE */
+    Last update: 2024/01/29
+    Language: English
+    Doctype: HTML5
+    IDE: Visual Studio Code
+    Standards: HTML5, CSS3
+    Components: Inter Font, Tailwind CSS
+    Software: Figma (Design)
+
+/* THANKS */
+    Music Community
+    Spotify Integration
+
+/* TECHNOLOGY */
+    - HTML5
+    - CSS3
+    - JavaScript
+    - Responsive Design
+    - Mobile First
+    - AI Integration
+    - Spotify API
+
+/* SITE FEATURES */
+    - Smart Music Organization
+    - AI-powered Features
+    - Playlist Management
+    - Spotify Integration
+    - Collaborative Tools
