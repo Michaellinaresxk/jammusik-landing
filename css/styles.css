@@ -31,6 +31,20 @@ body {
   background-color: var(--light);
 }
 
+.brand-content {
+  display: flex;
+  align-items: center;
+  text-decoration: none;
+}
+
+
+.brand-name {
+
+  color: #22AA98;
+  font-size: 2em;
+}
+
+
 .container {
   max-width: 1200px;
   margin: 0 auto;
